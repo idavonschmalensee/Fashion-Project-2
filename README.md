@@ -1,1 +1,2 @@
 # Fashion-Project-2
+# This analysis is for a fashion magazine that runs on an app. Belle's sales are already excellent, but they would like to learn more about the newest trends in fashion, their target market, and the best influencers to collaborate with. To gain insights and recommend solutions for more effective marketing based on the specified criteria, the goal is to conduct an exploratory analysis of some of their data as well as an initial data collection.
